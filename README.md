@@ -1,12 +1,12 @@
 # Data Structure
 Data Structure
-	- Sorting, Searching, Graph, Caching alogs, Map Reduce, Hashing, bigO 
-	- Array related sample small programs, Fibonacci, palindrome, etc..
+ - Sorting, Searching, Graph, Caching alogs, Map Reduce, Hashing, bigO 
+ - Array related sample small programs, Fibonacci, palindrome, etc..
 Design Pattern
-	- Creational, Structural and Behavioral
+ - Creational, Structural and Behavioral
 Design Principal
-    - SOLID Principal
-    - Composition, aggregation and association 
+ - SOLID Principal
+ - Composition, aggregation and association 
 
 # JAVA
 JAVA 8 Features 
