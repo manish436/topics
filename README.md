@@ -2,8 +2,10 @@
 Data Structure
  - Sorting, Searching, Graph, Caching alogs, Map Reduce, Hashing, bigO 
  - Array related sample small programs, Fibonacci, palindrome, etc..
+ 
 Design Pattern
  - Creational, Structural and Behavioral
+ 
 Design Principal
  - SOLID Principal
  - Composition, aggregation and association 
