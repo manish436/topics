@@ -36,10 +36,11 @@ Exception handling
 Threading 
  - Threading basics
  - Java memory model
- - Dead lock
  - Syncronize 
  - Volatile
+ - Dead lock
 
+ - Locks(Simple Lock, Lock Reentrance, etc)
  - fork join
  - Thread pool, executor framework
  - Blocking queue
