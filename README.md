@@ -31,7 +31,7 @@ Garbage collection
 	- Algorithms 
 	- Types
   
-Exception
+Exception handling
 
 Threading 
  - Threading basics
